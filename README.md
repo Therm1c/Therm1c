@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Therm1c
-- 👀 I’m interested in aerodynamics and robotics projects although I do not have an engineering background
-- 🌱 I’m currently learning automotive design
-- 💞️ I’m looking to collaborate on inverse kinematic robotics projects
+- 👀 I’m interested in CGI Visualiation
+- 🌱 I’m currently a working student at Volkswagen Design
+- 💞️ I’m looking to collaborate on creating tools for Visualization in Unreal Engine, Blender and VRED
 - 📫 You can reach me on my email ID: parthkhaladkaralt@gmail.com or instagram @exo_shortsguy
 
 <!---
