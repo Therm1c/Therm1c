@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Therm1c
-- 👀 I’m interested in CGI Visualiation
-- 🌱 I’m currently a working student at Volkswagen Design
+- 👋 Hi, I’m Parth Khaladkar
+- 👀 I’m a 3D Artist working in the Automotive Design industry
+- I'm on a jouney to become a Technical Artist in the tech and gaming industry
 - 💞️ I’m looking to collaborate on creating tools for Visualization in Unreal Engine, Blender and VRED
 - 📫 You can reach me on my email ID: parthkhaladkaralt@gmail.com or instagram @exo_shortsguy
 
